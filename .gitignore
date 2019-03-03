@@ -103,6 +103,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
 # Project Specific
 app.db
 microblog.log*
